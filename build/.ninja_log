@@ -1,0 +1,22 @@
+# ninja log v6
+690	3237	8170585046308084	CMakeFiles/HospitalManagementSystem.dir/HospitalManagementSystem_autogen/mocs_compilation.cpp.obj	685f701d9570164e
+27	689	8170585045438723	HospitalManagementSystem_autogen/timestamp	eeeb6d871f14060f
+27	689	8170585045438723	C:/Users/TECH FEVER/Desktop/HospitalManagementSystem/build/HospitalManagementSystem_autogen/timestamp	eeeb6d871f14060f
+27	689	8170585045438723	HospitalManagementSystem_autogen/mocs_compilation.cpp	eeeb6d871f14060f
+694	3240	8170585046348229	CMakeFiles/HospitalManagementSystem.dir/src/main.cpp.obj	2d42d97e565b231f
+27	689	8170585045438723	C:/Users/TECH FEVER/Desktop/HospitalManagementSystem/build/HospitalManagementSystem_autogen/mocs_compilation.cpp	eeeb6d871f14060f
+699	4260	8170585046388554	CMakeFiles/HospitalManagementSystem.dir/src/mainwindow.cpp.obj	82f7c26c15e9797b
+4261	4848	8170585081950853	HospitalManagementSystem.exe	4783b522b51d7020
+14	635	8170597808226294	build.ninja	e10e886a69203b33
+177	2541	8170426088813557	CMakeFiles/HospitalManagementSystem.dir/src/hospital_storage.cpp.obj	64cae79a1ddc2683
+727	2781	8170562461994691	CMakeFiles/HospitalManagementSystem.dir/src/hospital_engine.cpp.obj	7bce827bace0516f
+41	200	8170598034228486	HospitalManagementSystem_autogen/timestamp	9004878324dc0a64
+41	200	8170598034228486	HospitalManagementSystem_autogen/mocs_compilation.cpp	9004878324dc0a64
+41	200	8170598034228486	C:/Users/TECH FEVER/Desktop/HospitalManagementSystem/build/HospitalManagementSystem_autogen/timestamp	9004878324dc0a64
+41	200	8170598034228486	C:/Users/TECH FEVER/Desktop/HospitalManagementSystem/build/HospitalManagementSystem_autogen/mocs_compilation.cpp	9004878324dc0a64
+205	2941	8170598035869261	CMakeFiles/HospitalManagementSystem.dir/src/main.cpp.obj	568f00a3bfe221f4
+201	2984	8170598035828463	CMakeFiles/HospitalManagementSystem.dir/HospitalManagementSystem_autogen/mocs_compilation.cpp.obj	8aec153a51deec9f
+220	4298	8170598036012965	CMakeFiles/HospitalManagementSystem.dir/src/hospital_engine.cpp.obj	9f6ce6336c7233c7
+214	4922	8170598035954326	CMakeFiles/HospitalManagementSystem.dir/src/hospital_storage.cpp.obj	b9d66c59369992f9
+209	6073	8170598035914254	CMakeFiles/HospitalManagementSystem.dir/src/mainwindow.cpp.obj	a17cdadf0dd5c391
+27	212	8170598677129722	HospitalManagementSystem.exe	3795f36385bc6a2f

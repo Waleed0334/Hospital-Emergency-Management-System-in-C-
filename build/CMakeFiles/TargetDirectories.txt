@@ -1,0 +1,5 @@
+C:/Users/TECH FEVER/Desktop/HospitalManagementSystem/build/CMakeFiles/HospitalManagementSystem.dir
+C:/Users/TECH FEVER/Desktop/HospitalManagementSystem/build/CMakeFiles/edit_cache.dir
+C:/Users/TECH FEVER/Desktop/HospitalManagementSystem/build/CMakeFiles/rebuild_cache.dir
+C:/Users/TECH FEVER/Desktop/HospitalManagementSystem/build/CMakeFiles/HospitalManagementSystem_autogen_timestamp_deps.dir
+C:/Users/TECH FEVER/Desktop/HospitalManagementSystem/build/CMakeFiles/HospitalManagementSystem_autogen.dir
